@@ -1,0 +1,8 @@
+activity,factor,unit,scope
+electricity_uk_grid,0.233,kWh,2
+diesel,2.68,litre,1
+petrol,2.31,litre,1
+natural_gas,0.184,kWh,1
+car_business_miles,0.180,mile,3
+rail,0.036,km,3
+short_haul_flight,0.254,km,3
